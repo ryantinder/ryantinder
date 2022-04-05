@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @ryantinder
-- 👀 I’m interested in software engineering, machine learning, and mobile application development.
-- 🌱 I’m currently studying Computer Science at the Georgia Institute of Technology. Expected Grad Date: May 2024.
-- 📫 How to reach me - Cell: 405-779-7999 - Email: ryantinder56@gmail.com
+Hi, I’m @ryantinder. 
+
+CS @ Georgia Tech (grad 2025). Software Engineering Intern @ Lockheed Martin 2022.
+Prev: Software Engineer at PCInnovations
+
+Currently pursuing Solidity and Rust development for ETH and SOL. Creator of VaultFT, mobile native NFT wallet and transfer.
+Interested in all aspects of blockcahin development.
+
+Contact: ryantinder56@gmail.com or 4057797999
 
 
