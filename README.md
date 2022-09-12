@@ -9,4 +9,4 @@ Interested in all aspects of blockchain development.
 
 Contact: ryantinder56@gmail.com
 
-
+Github should make a private repo contribution heatmap 😥
